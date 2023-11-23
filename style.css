@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(255, 231, 159);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: black;
+    font-size: 24px;
+}
+a:hover {
+    color: gray;
+}
+
+h1 {
+    padding-top: 24px;
+    text-align: center;
+
+}
+
+ol, ul {
+    list-style: none;
+    text-align: center;
+}
